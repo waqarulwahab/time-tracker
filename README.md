@@ -3,4 +3,4 @@ Java (Maven) application for tracking time on the job
 
 
 
-Good Night Students!!!
+Good Students!!!
